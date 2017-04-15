@@ -1,0 +1,10 @@
+﻿Format des donnees: Nom;rayonOrbite(en km);vitesse orbitale moyenne (en km/s);masse (en kg)
+Soleil;0;0;1.9891e30
+Mercure;57909176;38.86e3;330.2e21
+Venus;108208930;34.79e3;4.8685e25
+Terre;149597887.5;29.291e3;5.9736e24
+Mars;227936637;21.972e3;641e21
+Jupiter;7.78412027e8;12.44e3;1.8986e27
+Saturne;1429394069;9.6446e3;568.46e24
+Uranus;2870685186;6.80e3;8.6810e25
+Neptune;4503443661;5.4317e3;102.43e24
